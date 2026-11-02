@@ -3,3 +3,8 @@
 /preview*.html
 /verify*.json
 /__pycache__/
+/local-design/
+/README.v2.md
+/preview-*
+/preview_skills.py
+/skills-v2-preview.png

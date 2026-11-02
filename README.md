@@ -1,127 +1,190 @@
-<!-- Content and proficiency levels approved by Ram Farid. Source data: profile.json. -->
-<a href="https://ramfarid.com"><img src="assets/header.svg" width="100%" alt="Ram Farid — Full-stack Engineer. From the first screen to production." /></a>
+<!-- Generated from profile.json. Proficiency is self-assessed and approved by Ram Farid. -->
+<a href="https://ramfarid.com"><img src="assets/v2/header.svg" alt="Ram Farid — Full-Stack Engineer | Founder of Ramlyon" width="100%" /></a>
 
-# Ram Farid
+<p align="center"><img src="assets/v2/typing.svg" alt="From the first screen to production. Next.js, TypeScript, Node.js. Building Ramlyon." width="100%" /></p>
 
-**Full-stack Engineer · Founder of [Ramlyon](https://ramlyon.com)**
+<p align="center">
+<a href="https://ramfarid.com"><img src="assets/v2/contact-website.svg" alt="Portfolio" height="28" /></a>
+<a href="https://ramfarid.com/api/cv"><img src="assets/v2/contact-cv.svg" alt="CV" height="28" /></a>
+<a href="https://www.linkedin.com/in/ramfarid"><img src="assets/v2/contact-linkedin.svg" alt="LinkedIn" height="28" /></a>
+<a href="mailto:ram@ramfarid.com"><img src="assets/v2/contact-email.svg" alt="Email" height="28" /></a>
+<a href="https://wa.me/201553706448"><img src="assets/v2/contact-whatsapp.svg" alt="WhatsApp" height="28" /></a>
+</p>
 
-I build web apps end to end: the interface, the API, the database, and the infrastructure that keeps them running. Based in Cairo, working in English and Arabic.
+## About me
 
-Most of my work is production software for real businesses: ordering and POS platforms, booking systems, commerce, and admin tools. I care about clear interfaces, correct data, and systems that recover when things go wrong.
+Full-stack engineer in **Cairo, Egypt**. I build the interface, API, database and deployment — and keep the product running after launch.
 
-**Open to full-time, part-time and contract roles.**
-
-[Portfolio](https://ramfarid.com/en/portfolio) · [CV](https://ramfarid.com/api/cv) · [LinkedIn](https://www.linkedin.com/in/ramfarid) · [Email](mailto:ram@ramfarid.com)
+- **Building [Ramlyon](https://ramlyon.com):** a multi-tenant operating system for restaurants and cafés.
+- **My kind of work:** SaaS, commerce, booking systems, real-time features and business operations.
+- **What I care about:** reliable systems, correct data, clear interfaces, and architecture that earns its complexity.
+- **Open to:** full-time, part-time and contract engineering roles. Working in English and Arabic.
 
 ## Selected work
 
-The code for client and commercial work is not always public. These case studies show what I built and how it works.
+**[Ramlyon](https://ramfarid.com/en/portfolio/ramlyon)** · Founder / SaaS<br>
+Restaurant ordering, POS, kitchen display and delivery. Tenant isolation, live updates and offline sync. [Live ↗](https://ramlyon.com)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://ramfarid.com/en/portfolio/ramlyon"><img src="assets/ramlyon.webp" width="440" alt="Ramlyon project cover" /></a>
-<h3><a href="https://ramfarid.com/en/portfolio/ramlyon">Ramlyon</a></h3>
-<p><sub>Founder · Multi-tenant SaaS</sub></p>
-<p>A restaurant operating system: ordering, POS, kitchen display, delivery and staff access. Arabic-first, with real-time updates and offline sync.</p>
-<p><a href="https://ramfarid.com/en/portfolio/ramlyon">Read the case study ↗</a> · <a href="https://ramlyon.com/">Live site ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://ramfarid.com/en/portfolio/history-game"><img src="assets/history-game.webp" width="440" alt="HISTORY website project cover" /></a>
-<h3><a href="https://ramfarid.com/en/portfolio/history-game">HISTORY website</a></h3>
-<p><sub>Game platform · Commerce</sub></p>
-<p>A game-connected platform with accounts, rankings, an item shop, referrals and an admin console. Built for a multilingual player community.</p>
-<p><a href="https://ramfarid.com/en/portfolio/history-game">Read the case study ↗</a> · <a href="https://m2history.com/">Live site ↗</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://ramfarid.com/en/portfolio/history-wiki"><img src="assets/history-wiki.webp" width="440" alt="HISTORY Wiki project cover" /></a>
-<h3><a href="https://ramfarid.com/en/portfolio/history-wiki">HISTORY Wiki</a></h3>
-<p><sub>Knowledge platform · CMS</sub></p>
-<p>A multilingual game wiki with an in-place CMS, instant search and cached pages. Content tools built around the way its editors actually work.</p>
-<p><a href="https://ramfarid.com/en/portfolio/history-wiki">Read the case study ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://ramfarid.com/en/portfolio/st-mary-maadi"><img src="assets/st-mary-maadi.webp" width="440" alt="St Mary Maadi project cover" /></a>
-<h3><a href="https://ramfarid.com/en/portfolio/st-mary-maadi">St Mary Maadi</a></h3>
-<p><sub>Institutional platform · Reservations</sub></p>
-<p>One platform for hotel bookings, Nile trips, tournaments and church events, with capacity management, staff workflows and live updates.</p>
-<p><a href="https://ramfarid.com/en/portfolio/st-mary-maadi">Read the case study ↗</a></p>
-</td>
-</tr>
-</table>
+**[HISTORY website](https://ramfarid.com/en/portfolio/history-game)** · Game platform / Commerce<br>
+Game-connected accounts, rankings, an item shop, referrals and admin tooling for a multilingual community. [Live ↗](https://m2history.com)
 
-## Technologies & engineering
+**[HISTORY Wiki](https://ramfarid.com/en/portfolio/history-wiki)** · Wiki / CMS<br>
+A multilingual game wiki with in-place editing, instant search and cached pages.
 
-My self-assessed levels reflect hands-on experience, not everything I have tried.
+**[St Mary Maadi](https://ramfarid.com/en/portfolio/st-mary-maadi)** · Reservations / Operations<br>
+Hotel bookings, Nile trips, tournaments and events, with capacity management and live staff workflows.
 
-### Expert
+[View all case studies ↗](https://ramfarid.com/en/portfolio)
 
-<img src="assets/expert.svg" alt="Expert level" />
+## Tech stack
 
-**Front end**<br>
-`Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `MUI` · `MUI X` · `shadcn/ui` · `Sass` · `styled-components` · `Framer Motion`
+<p>
+<img src="assets/v2/level-familiar.svg" alt="Familiar — ▰▱▱" height="28" />
+<img src="assets/v2/level-proficient.svg" alt="Proficient — ▰▰▱" height="28" />
+<img src="assets/v2/level-expert.svg" alt="Expert — ▰▰▰" height="28" />
+</p>
 
-**State, Data & Validation**<br>
-`Zustand` · `Jotai` · `Zod`
+<sub>Hands-on experience. Levels are self-assessed; the bars show depth, not years or percentages.</sub>
 
-**Back end**<br>
-`Node.js` · `Express.js` · `REST APIs` · `Socket.IO` · `Background jobs` · `Cron jobs` · `Workers`
+### Front end
 
-**Databases**<br>
-`MongoDB` · `Mongoose` · `PostgreSQL` · `MySQL` · `Prisma` · `Redis` · `Firebase` · `Supabase` · `Database design` · `Query optimization` · `Transactions`
+<p>
+<img src="assets/v2/next-js.svg" alt="Next.js — Expert" height="28" />
+<img src="assets/v2/react.svg" alt="React — Expert" height="28" />
+<img src="assets/v2/typescript.svg" alt="TypeScript — Expert" height="28" />
+<img src="assets/v2/javascript.svg" alt="JavaScript — Expert" height="28" />
+<img src="assets/v2/tailwind-css.svg" alt="Tailwind CSS — Expert" height="28" />
+<img src="assets/v2/mui.svg" alt="MUI — Expert" height="28" />
+<img src="assets/v2/mui-x.svg" alt="MUI X — Expert" height="28" />
+<img src="assets/v2/shadcn-ui.svg" alt="shadcn/ui — Expert" height="28" />
+<img src="assets/v2/sass.svg" alt="Sass — Expert" height="28" />
+<img src="assets/v2/styled-components.svg" alt="styled-components — Expert" height="28" />
+<img src="assets/v2/framer-motion.svg" alt="Framer Motion — Expert" height="28" />
+</p>
 
-**Auth and access control**<br>
-`Auth.js` · `JWT` · `OAuth` · `RBAC` · `Authentication` · `Authorization`
+### State, Data & Validation
 
-**Architecture**<br>
-`Multi-tenant SaaS` · `ERP` · `SSE` · `WebSockets` · `PWA` · `Offline synchronization` · `Internationalization and RTL` · `Technical SEO`
+<p>
+<img src="assets/v2/redux-toolkit.svg" alt="Redux Toolkit — Proficient" height="28" />
+<img src="assets/v2/zustand.svg" alt="Zustand — Expert" height="28" />
+<img src="assets/v2/jotai.svg" alt="Jotai — Expert" height="28" />
+<img src="assets/v2/tanstack-query.svg" alt="TanStack Query — Proficient" height="28" />
+<img src="assets/v2/swr.svg" alt="SWR — Proficient" height="28" />
+<img src="assets/v2/zod.svg" alt="Zod — Expert" height="28" />
+</p>
 
-**Servers and DevOps**<br>
-`Linux` · `Coolify` · `Cloudflare` · `Vercel` · `AWS` · `Hetzner`
+### Back end
 
-**Integrations**<br>
-`Telegram Bot API` · `Nodemailer` · `Bunny.net`
+<p>
+<img src="assets/v2/node-js.svg" alt="Node.js — Expert" height="28" />
+<img src="assets/v2/express-js.svg" alt="Express.js — Expert" height="28" />
+<img src="assets/v2/rest-apis.svg" alt="REST APIs — Expert" height="28" />
+<img src="assets/v2/socket-io.svg" alt="Socket.IO — Expert" height="28" />
+<img src="assets/v2/background-jobs.svg" alt="Background jobs — Expert" height="28" />
+<img src="assets/v2/cron-jobs.svg" alt="Cron jobs — Expert" height="28" />
+<img src="assets/v2/workers.svg" alt="Workers — Expert" height="28" />
+</p>
 
-### Proficient
+### Databases
 
-<img src="assets/proficient.svg" alt="Proficient level" />
+<p>
+<img src="assets/v2/mongodb.svg" alt="MongoDB — Expert" height="28" />
+<img src="assets/v2/mongoose.svg" alt="Mongoose — Expert" height="28" />
+<img src="assets/v2/postgresql.svg" alt="PostgreSQL — Expert" height="28" />
+<img src="assets/v2/mysql.svg" alt="MySQL — Expert" height="28" />
+<img src="assets/v2/prisma.svg" alt="Prisma — Expert" height="28" />
+<img src="assets/v2/redis.svg" alt="Redis — Expert" height="28" />
+<img src="assets/v2/firebase.svg" alt="Firebase — Expert" height="28" />
+<img src="assets/v2/supabase.svg" alt="Supabase — Expert" height="28" />
+<img src="assets/v2/database-design.svg" alt="Database design — Expert" height="28" />
+<img src="assets/v2/query-optimization.svg" alt="Query optimization — Expert" height="28" />
+<img src="assets/v2/transactions.svg" alt="Transactions — Expert" height="28" />
+</p>
 
-**State, Data & Validation**<br>
-`Redux Toolkit` · `TanStack Query` · `SWR`
+### Auth and access control
 
-**Servers and DevOps**<br>
-`Nginx` · `Docker` · `PM2` · `GitHub Actions`
+<p>
+<img src="assets/v2/auth-js.svg" alt="Auth.js — Expert" height="28" />
+<img src="assets/v2/jwt.svg" alt="JWT — Expert" height="28" />
+<img src="assets/v2/oauth.svg" alt="OAuth — Expert" height="28" />
+<img src="assets/v2/rbac.svg" alt="RBAC — Expert" height="28" />
+<img src="assets/v2/authentication.svg" alt="Authentication — Expert" height="28" />
+<img src="assets/v2/authorization.svg" alt="Authorization — Expert" height="28" />
+</p>
 
-**Integrations**<br>
-`Stripe`
+### Architecture
 
-**Tools**<br>
-`Git` · `GitHub`
+<p>
+<img src="assets/v2/multi-tenant-saas.svg" alt="Multi-tenant SaaS — Expert" height="28" />
+<img src="assets/v2/erp.svg" alt="ERP — Expert" height="28" />
+<img src="assets/v2/sse.svg" alt="SSE — Expert" height="28" />
+<img src="assets/v2/websockets.svg" alt="WebSockets — Expert" height="28" />
+<img src="assets/v2/pwa.svg" alt="PWA — Expert" height="28" />
+<img src="assets/v2/offline-synchronization.svg" alt="Offline synchronization — Expert" height="28" />
+<img src="assets/v2/internationalization-and-rtl.svg" alt="Internationalization and RTL — Expert" height="28" />
+<img src="assets/v2/technical-seo.svg" alt="Technical SEO — Expert" height="28" />
+</p>
 
-### Familiar
+### Servers and DevOps
 
-<img src="assets/familiar.svg" alt="Familiar level" />
+<p>
+<img src="assets/v2/linux.svg" alt="Linux — Expert" height="28" />
+<img src="assets/v2/nginx.svg" alt="Nginx — Proficient" height="28" />
+<img src="assets/v2/docker.svg" alt="Docker — Proficient" height="28" />
+<img src="assets/v2/pm2.svg" alt="PM2 — Proficient" height="28" />
+<img src="assets/v2/coolify.svg" alt="Coolify — Expert" height="28" />
+<img src="assets/v2/github-actions.svg" alt="GitHub Actions — Proficient" height="28" />
+<img src="assets/v2/cloudflare.svg" alt="Cloudflare — Expert" height="28" />
+<img src="assets/v2/vercel.svg" alt="Vercel — Expert" height="28" />
+<img src="assets/v2/aws.svg" alt="AWS — Expert" height="28" />
+<img src="assets/v2/hetzner.svg" alt="Hetzner — Expert" height="28" />
+</p>
 
-**Testing**<br>
-`Jest` · `Vitest` · `React Testing Library` · `Playwright` · `Cypress`
+### Testing
 
-## How I work
+<p>
+<img src="assets/v2/jest.svg" alt="Jest — Familiar" height="28" />
+<img src="assets/v2/vitest.svg" alt="Vitest — Familiar" height="28" />
+<img src="assets/v2/react-testing-library.svg" alt="React Testing Library — Familiar" height="28" />
+<img src="assets/v2/playwright.svg" alt="Playwright — Familiar" height="28" />
+<img src="assets/v2/cypress.svg" alt="Cypress — Familiar" height="28" />
+</p>
 
-- Own the whole path from requirements to deployment, not just the UI.
-- Design Arabic and right-to-left experiences from the start.
-- Treat tenant isolation, permissions, pricing and data integrity as engineering constraints.
-- Keep architecture as simple as the product allows. Add complexity when it earns its place.
+### Integrations
 
-## Connect
+<p>
+<img src="assets/v2/stripe.svg" alt="Stripe — Proficient" height="28" />
+<img src="assets/v2/telegram-bot-api.svg" alt="Telegram Bot API — Expert" height="28" />
+<img src="assets/v2/nodemailer.svg" alt="Nodemailer — Expert" height="28" />
+<img src="assets/v2/bunny-net.svg" alt="Bunny.net — Expert" height="28" />
+</p>
 
-For roles, product work, or a technical conversation:
+### Tools
 
-[Website](https://ramfarid.com) · [Email](mailto:ram@ramfarid.com) · [LinkedIn](https://www.linkedin.com/in/ramfarid) · [WhatsApp](https://wa.me/201553706448)
+<p>
+<img src="assets/v2/git.svg" alt="Git — Proficient" height="28" />
+<img src="assets/v2/github.svg" alt="GitHub — Proficient" height="28" />
+</p>
 
-[GitHub](https://github.com/RamFarid) · [Facebook](https://www.facebook.com/ramfarid22) · [Instagram](https://www.instagram.com/ramfarid22)
+## GitHub activity
 
----
+<p align="center"><a href="https://github.com/RamFarid?tab=overview"><img src="https://streak-stats.demolab.com?user=RamFarid&amp;background=0B0910&amp;border=2B2538&amp;stroke=2B2538&amp;ring=A25BFF&amp;fire=BE8CFF&amp;currStreakLabel=BE8CFF&amp;sideLabels=F3F0F8&amp;currStreakNum=F3F0F8&amp;sideNums=F3F0F8&amp;dates=9D95AE" alt="RamFarid contribution streak, generated from GitHub activity" width="495" /></a></p>
 
-<sub>Building Ramlyon. Interested in contributing to open source as well.</sub>
+<sub>Public GitHub activity. Commercial and client code may live in private repositories.</sub>
+
+## Find me elsewhere
+
+<p>
+<a href="https://github.com/RamFarid"><img src="assets/v2/contact-github.svg" alt="GitHub" height="28" /></a>
+<a href="https://www.facebook.com/ramfarid22"><img src="assets/v2/contact-facebook.svg" alt="Facebook" height="28" /></a>
+<a href="https://www.instagram.com/ramfarid22"><img src="assets/v2/contact-instagram.svg" alt="Instagram" height="28" /></a>
+</p>
+
+<sub>Also interested in contributing to open source. For roles or product work, reach me on [LinkedIn](https://www.linkedin.com/in/ramfarid) or [email](mailto:ram@ramfarid.com).</sub>
+
+<details>
+<summary>Profile tools & credits</summary>
+
+[Shields.io](https://shields.io) · [Simple Icons](https://simpleicons.org) · [Devicon](https://devicon.dev) · [Capsule Render](https://github.com/kyechan99/capsule-render) · [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) · [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</details>
