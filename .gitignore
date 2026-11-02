@@ -1,0 +1,5 @@
+# Local build inputs and previews are not part of the public profile.
+/build_profile.py
+/preview*.html
+/verify*.json
+/__pycache__/

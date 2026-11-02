@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">Ram Farid — Full-stack Engineer</title><desc id="desc">From the first screen to production. Next.js, TypeScript and Node.js. Cairo, Egypt.</desc>
+<defs><radialGradient id="glow"><stop stop-color="#a25bff" stop-opacity=".22"/><stop offset="1" stop-color="#a25bff" stop-opacity="0"/></radialGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#2b2538" stroke-width=".6"/></pattern></defs>
+<rect width="1200" height="370" rx="18" fill="#0b0910"/><rect x=".5" y=".5" width="1199" height="369" rx="18" fill="none" stroke="#2b2538"/>
+<rect x="770" y="1" width="412" height="368" fill="url(#grid)"/><ellipse cx="1000" cy="185" rx="280" ry="240" fill="url(#glow)"/>
+<rect x="48" y="48" width="34" height="4" rx="2" fill="#a25bff"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="96" y="55" fill="#be8cff" font-size="13" letter-spacing="3">ENGINEER / FOUNDER</text>
+<text x="48" y="134" fill="#f3f0f8" font-size="66" font-weight="700" letter-spacing="-2">Ram Farid<tspan fill="#a25bff">.</tspan></text>
+<text x="51" y="177" fill="#d0c7df" font-size="23">Full-stack Engineer</text><text x="51" y="231" fill="#f3f0f8" font-size="28">From the first screen to production.</text>
+<text x="51" y="276" fill="#9d95ae" font-size="16">Next.js / TypeScript / Node.js</text><path d="M48 307H1152" stroke="#2b2538"/>
+<text x="51" y="339" fill="#9d95ae" font-size="13" letter-spacing="1">CAIRO, EGYPT</text><text x="1150" y="339" text-anchor="end" fill="#be8cff" font-size="14">ramfarid.com</text></g>
+<g transform="translate(848 85)" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect width="268" height="170" rx="12" fill="#131019" stroke="#3b2a51"/>
+<path d="M0 35H268" stroke="#2b2538"/><circle cx="19" cy="18" r="3" fill="#a25bff"/><circle cx="32" cy="18" r="3" fill="#6c6380"/><circle cx="45" cy="18" r="3" fill="#6c6380"/>
+<path d="M62 72L37 96L62 120M116 65L96 127M150 72L175 96L150 120" stroke="#be8cff" stroke-width="5"/><path d="M37 146H103M116 146H155" stroke="#3b2a51" stroke-width="4"/>
+<rect x="193" y="100" width="96" height="94" rx="12" fill="#1c1825" stroke="#6b429e"/><path d="M216 130L230 143L250 119M216 165H264" stroke="#be8cff" stroke-width="4"/></g></svg>

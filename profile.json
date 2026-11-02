@@ -1,0 +1,412 @@
+{
+  "name": "Ram Farid",
+  "username": "RamFarid",
+  "website": "https://ramfarid.com",
+  "levels": [
+    "Familiar",
+    "Proficient",
+    "Expert"
+  ],
+  "groups": [
+    {
+      "name": "Front end",
+      "items": [
+        {
+          "name": "Next.js",
+          "level": "Expert"
+        },
+        {
+          "name": "React",
+          "level": "Expert"
+        },
+        {
+          "name": "TypeScript",
+          "level": "Expert"
+        },
+        {
+          "name": "JavaScript",
+          "level": "Expert"
+        },
+        {
+          "name": "Tailwind CSS",
+          "level": "Expert"
+        },
+        {
+          "name": "MUI",
+          "level": "Expert"
+        },
+        {
+          "name": "MUI X",
+          "level": "Expert"
+        },
+        {
+          "name": "shadcn/ui",
+          "level": "Expert"
+        },
+        {
+          "name": "Sass",
+          "level": "Expert"
+        },
+        {
+          "name": "styled-components",
+          "level": "Expert"
+        },
+        {
+          "name": "Framer Motion",
+          "level": "Expert"
+        }
+      ]
+    },
+    {
+      "name": "State, Data & Validation",
+      "items": [
+        {
+          "name": "Redux Toolkit",
+          "level": "Proficient"
+        },
+        {
+          "name": "Zustand",
+          "level": "Expert"
+        },
+        {
+          "name": "Jotai",
+          "level": "Expert"
+        },
+        {
+          "name": "TanStack Query",
+          "level": "Proficient"
+        },
+        {
+          "name": "SWR",
+          "level": "Proficient"
+        },
+        {
+          "name": "Zod",
+          "level": "Expert"
+        }
+      ]
+    },
+    {
+      "name": "Back end",
+      "items": [
+        {
+          "name": "Node.js",
+          "level": "Expert"
+        },
+        {
+          "name": "Express.js",
+          "level": "Expert"
+        },
+        {
+          "name": "REST APIs",
+          "level": "Expert"
+        },
+        {
+          "name": "Socket.IO",
+          "level": "Expert"
+        },
+        {
+          "name": "Background jobs",
+          "level": "Expert"
+        },
+        {
+          "name": "Cron jobs",
+          "level": "Expert"
+        },
+        {
+          "name": "Workers",
+          "level": "Expert"
+        }
+      ]
+    },
+    {
+      "name": "Databases",
+      "items": [
+        {
+          "name": "MongoDB",
+          "level": "Expert"
+        },
+        {
+          "name": "Mongoose",
+          "level": "Expert"
+        },
+        {
+          "name": "PostgreSQL",
+          "level": "Expert"
+        },
+        {
+          "name": "MySQL",
+          "level": "Expert"
+        },
+        {
+          "name": "Prisma",
+          "level": "Expert"
+        },
+        {
+          "name": "Redis",
+          "level": "Expert"
+        },
+        {
+          "name": "Firebase",
+          "level": "Expert"
+        },
+        {
+          "name": "Supabase",
+          "level": "Expert"
+        },
+        {
+          "name": "Database design",
+          "level": "Expert"
+        },
+        {
+          "name": "Query optimization",
+          "level": "Expert"
+        },
+        {
+          "name": "Transactions",
+          "level": "Expert"
+        }
+      ]
+    },
+    {
+      "name": "Auth and access control",
+      "items": [
+        {
+          "name": "Auth.js",
+          "level": "Expert"
+        },
+        {
+          "name": "JWT",
+          "level": "Expert"
+        },
+        {
+          "name": "OAuth",
+          "level": "Expert"
+        },
+        {
+          "name": "RBAC",
+          "level": "Expert"
+        },
+        {
+          "name": "Authentication",
+          "level": "Expert"
+        },
+        {
+          "name": "Authorization",
+          "level": "Expert"
+        }
+      ]
+    },
+    {
+      "name": "Architecture",
+      "items": [
+        {
+          "name": "Multi-tenant SaaS",
+          "level": "Expert"
+        },
+        {
+          "name": "ERP",
+          "level": "Expert"
+        },
+        {
+          "name": "SSE",
+          "level": "Expert"
+        },
+        {
+          "name": "WebSockets",
+          "level": "Expert"
+        },
+        {
+          "name": "PWA",
+          "level": "Expert"
+        },
+        {
+          "name": "Offline synchronization",
+          "level": "Expert"
+        },
+        {
+          "name": "Internationalization and RTL",
+          "level": "Expert"
+        },
+        {
+          "name": "Technical SEO",
+          "level": "Expert"
+        }
+      ]
+    },
+    {
+      "name": "Servers and DevOps",
+      "items": [
+        {
+          "name": "Linux",
+          "level": "Expert"
+        },
+        {
+          "name": "Nginx",
+          "level": "Proficient"
+        },
+        {
+          "name": "Docker",
+          "level": "Proficient"
+        },
+        {
+          "name": "PM2",
+          "level": "Proficient"
+        },
+        {
+          "name": "Coolify",
+          "level": "Expert"
+        },
+        {
+          "name": "GitHub Actions",
+          "level": "Proficient"
+        },
+        {
+          "name": "Cloudflare",
+          "level": "Expert"
+        },
+        {
+          "name": "Vercel",
+          "level": "Expert"
+        },
+        {
+          "name": "AWS",
+          "level": "Expert"
+        },
+        {
+          "name": "Hetzner",
+          "level": "Expert"
+        }
+      ]
+    },
+    {
+      "name": "Testing",
+      "items": [
+        {
+          "name": "Jest",
+          "level": "Familiar"
+        },
+        {
+          "name": "Vitest",
+          "level": "Familiar"
+        },
+        {
+          "name": "React Testing Library",
+          "level": "Familiar"
+        },
+        {
+          "name": "Playwright",
+          "level": "Familiar"
+        },
+        {
+          "name": "Cypress",
+          "level": "Familiar"
+        }
+      ]
+    },
+    {
+      "name": "Integrations",
+      "items": [
+        {
+          "name": "Stripe",
+          "level": "Proficient"
+        },
+        {
+          "name": "Telegram Bot API",
+          "level": "Expert"
+        },
+        {
+          "name": "Nodemailer",
+          "level": "Expert"
+        },
+        {
+          "name": "Bunny.net",
+          "level": "Expert"
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "items": [
+        {
+          "name": "Git",
+          "level": "Proficient"
+        },
+        {
+          "name": "GitHub",
+          "level": "Proficient"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ramlyon",
+      "slug": "ramlyon",
+      "category": "Founder · Multi-tenant SaaS",
+      "description": "A restaurant operating system: ordering, POS, kitchen display, delivery and staff access. Arabic-first, with real-time updates and offline sync.",
+      "cover": "https://cdn.ramfarid.com/projects/covers/ramlyon.webp",
+      "live": "https://ramlyon.com/",
+      "url": "https://ramfarid.com/en/portfolio/ramlyon"
+    },
+    {
+      "name": "HISTORY website",
+      "slug": "history-game",
+      "category": "Game platform · Commerce",
+      "description": "A game-connected platform with accounts, rankings, an item shop, referrals and an admin console. Built for a multilingual player community.",
+      "cover": "https://cdn.ramfarid.com/projects/covers/history-game.webp",
+      "live": "https://m2history.com/",
+      "url": "https://ramfarid.com/en/portfolio/history-game"
+    },
+    {
+      "name": "HISTORY Wiki",
+      "slug": "history-wiki",
+      "category": "Knowledge platform · CMS",
+      "description": "A multilingual game wiki with an in-place CMS, instant search and cached pages. Content tools built around the way its editors actually work.",
+      "cover": "https://cdn.ramfarid.com/projects/covers/ea8cff8c-b0da-42bf-ae5a-09c7cc552496.webp",
+      "live": null,
+      "url": "https://ramfarid.com/en/portfolio/history-wiki"
+    },
+    {
+      "name": "St Mary Maadi",
+      "slug": "st-mary-maadi",
+      "category": "Institutional platform · Reservations",
+      "description": "One platform for hotel bookings, Nile trips, tournaments and church events, with capacity management, staff workflows and live updates.",
+      "cover": "https://cdn.ramfarid.com/projects/covers/st-mary-maadi.webp",
+      "live": null,
+      "url": "https://ramfarid.com/en/portfolio/st-mary-maadi"
+    }
+  ],
+  "contacts": [
+    {
+      "text": "Email\nram@ramfarid.com",
+      "url": "mailto:ram@ramfarid.com"
+    },
+    {
+      "text": "WhatsApp\n+20 155 370 6448\n(opens in a new tab)",
+      "url": "https://wa.me/201553706448"
+    },
+    {
+      "text": "LinkedIn\nramfarid\n(opens in a new tab)",
+      "url": "https://www.linkedin.com/in/ramfarid"
+    },
+    {
+      "text": "GitHub\nRamFarid\n(opens in a new tab)",
+      "url": "https://github.com/RamFarid"
+    },
+    {
+      "text": "Facebook\nramfarid22\n(opens in a new tab)",
+      "url": "https://www.facebook.com/ramfarid22"
+    },
+    {
+      "text": "Instagram\n@ramfarid22\n(opens in a new tab)",
+      "url": "https://www.instagram.com/ramfarid22"
+    }
+  ],
+  "theme": {
+    "background": "#0b0910",
+    "primary": "#a25bff",
+    "link": "#be8cff",
+    "text": "#f3f0f8"
+  }
+}
