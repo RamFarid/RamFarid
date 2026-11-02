@@ -15,26 +15,38 @@
 
 Full-stack engineer in **Cairo, Egypt**. I build the interface, API, database and deployment — and keep the product running after launch.
 
-- **Building [Ramlyon](https://ramlyon.com):** a multi-tenant operating system for restaurants and cafés.
+- **Building** <a href="https://ramlyon.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-links/project-ramlyon-dark.svg" /><img src="assets/text-links/project-ramlyon-light.svg" alt="Ramlyon" width="88" height="28" /></picture></a>: a multi-tenant operating system for restaurants and cafés.
 - **My kind of work:** SaaS, commerce, booking systems, real-time features and business operations.
 - **What I care about:** reliable systems, correct data, clear interfaces, and architecture that earns its complexity.
 - **Open to:** full-time, part-time and contract engineering roles. Working in English and Arabic.
 
 ## Selected work
 
-**[Ramlyon](https://ramfarid.com/en/portfolio/ramlyon)** · Founder / SaaS<br>
-Restaurant ordering, POS, kitchen display and delivery. Tenant isolation, live updates and offline sync. [Live ↗](https://ramlyon.com)
+<p>
+<a href="https://ramfarid.com/en/portfolio/ramlyon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-links/project-ramlyon-dark.svg" /><img src="assets/text-links/project-ramlyon-light.svg" alt="Ramlyon" width="88" height="28" /></picture></a> <sub>Founder / SaaS</sub><br>
+Restaurant ordering, POS, kitchen display and delivery. Tenant isolation, live updates and offline sync.<br>
+<a href="https://ramfarid.com/en/portfolio/ramlyon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-links/action-case-study-dark.svg" /><img src="assets/text-links/action-case-study-light.svg" alt="Ramlyon case study" width="89" height="22" /></picture></a> <a href="https://ramlyon.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-links/action-live-site-dark.svg" /><img src="assets/text-links/action-live-site-light.svg" alt="Ramlyon live site" width="71" height="22" /></picture></a>
+</p>
 
-**[HISTORY website](https://ramfarid.com/en/portfolio/history-game)** · Game platform / Commerce<br>
-Game-connected accounts, rankings, an item shop, referrals and admin tooling for a multilingual community. [Live ↗](https://m2history.com)
+<p>
+<a href="https://ramfarid.com/en/portfolio/history-game"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-links/project-history-game-dark.svg" /><img src="assets/text-links/project-history-game-light.svg" alt="HISTORY website" width="170" height="28" /></picture></a> <sub>Game platform / Commerce</sub><br>
+Game-connected accounts, rankings, an item shop, referrals and admin tooling for a multilingual community.<br>
+<a href="https://ramfarid.com/en/portfolio/history-game"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-links/action-case-study-dark.svg" /><img src="assets/text-links/action-case-study-light.svg" alt="HISTORY website case study" width="89" height="22" /></picture></a> <a href="https://m2history.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-links/action-live-site-dark.svg" /><img src="assets/text-links/action-live-site-light.svg" alt="HISTORY live site" width="71" height="22" /></picture></a>
+</p>
 
-**[HISTORY Wiki](https://ramfarid.com/en/portfolio/history-wiki)** · Wiki / CMS<br>
-A multilingual game wiki with in-place editing, instant search and cached pages.
+<p>
+<a href="https://ramfarid.com/en/portfolio/history-wiki"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-links/project-history-wiki-dark.svg" /><img src="assets/text-links/project-history-wiki-light.svg" alt="HISTORY Wiki" width="138" height="28" /></picture></a> <sub>Wiki / CMS</sub><br>
+A multilingual game wiki with in-place editing, instant search and cached pages.<br>
+<a href="https://ramfarid.com/en/portfolio/history-wiki"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-links/action-case-study-dark.svg" /><img src="assets/text-links/action-case-study-light.svg" alt="HISTORY Wiki case study" width="89" height="22" /></picture></a>
+</p>
 
-**[St Mary Maadi](https://ramfarid.com/en/portfolio/st-mary-maadi)** · Reservations / Operations<br>
-Hotel bookings, Nile trips, tournaments and events, with capacity management and live staff workflows.
+<p>
+<a href="https://ramfarid.com/en/portfolio/st-mary-maadi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-links/project-st-mary-maadi-dark.svg" /><img src="assets/text-links/project-st-mary-maadi-light.svg" alt="St Mary Maadi" width="138" height="28" /></picture></a> <sub>Reservations / Operations</sub><br>
+Hotel bookings, Nile trips, tournaments and events, with capacity management and live staff workflows.<br>
+<a href="https://ramfarid.com/en/portfolio/st-mary-maadi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-links/action-case-study-dark.svg" /><img src="assets/text-links/action-case-study-light.svg" alt="St Mary Maadi case study" width="89" height="22" /></picture></a>
+</p>
 
-[View all case studies ↗](https://ramfarid.com/en/portfolio)
+<a href="https://ramfarid.com/en/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-links/action-portfolio-dark.svg" /><img src="assets/text-links/action-portfolio-light.svg" alt="View all case studies" width="170" height="23" /></picture></a>
 
 ## Tech stack
 
@@ -180,7 +192,7 @@ Hotel bookings, Nile trips, tournaments and events, with capacity management and
 <a href="https://www.instagram.com/ramfarid22"><img src="assets/v2/contact-instagram.svg" alt="Instagram" height="28" /></a>
 </p>
 
-<sub>Also interested in contributing to open source. For roles or product work, reach me on [LinkedIn](https://www.linkedin.com/in/ramfarid) or [email](mailto:ram@ramfarid.com).</sub>
+<sub>Also interested in contributing to open source. For roles or product work, use the LinkedIn or email buttons above.</sub>
 
 <details>
 <summary>Profile tools & credits</summary>
